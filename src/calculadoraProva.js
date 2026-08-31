@@ -93,3 +93,5 @@ class Calculadora {
         return resultado;
     }
 }
+
+module.exports = Calculadora;
