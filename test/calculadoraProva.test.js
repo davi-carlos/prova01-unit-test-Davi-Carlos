@@ -1,4 +1,4 @@
-const Calculadora = require('../src/calculadora');
+const Calculadora = require('../src/calculadoraProva');
 
 describe('Calculadora', () => {
     let calc;
