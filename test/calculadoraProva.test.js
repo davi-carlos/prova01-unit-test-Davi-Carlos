@@ -93,5 +93,4 @@ describe('Calculadora', () => {
 
     test('fatorial negativo', () => {
         expect(() => calc.fatorial(-1)).toThrow();
-    });
-});
+    });/
